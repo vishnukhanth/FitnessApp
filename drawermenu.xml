@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/pf" android:title="Profile"
+        android:icon="@drawable/ic_person_outline_black_24dp"/>
+    <item android:id="@+id/wt" android:title="Water"
+        android:icon="@drawable/ic_water" />
+    <item android:id="@+id/dt" android:title="Diet"
+        android:icon="@drawable/ic_hamburguer"/>
+    <item android:id="@+id/fs" android:title="Footsteps"
+        android:icon="@drawable/ic_foot_print"/>
+    <item android:id="@+id/bmi" android:title="Body Mass Index"
+        android:icon="@drawable/ic_person_with_a_sweater_silhouette"
+        />
+    <item android:id="@+id/fd" android:title="Fruit Disease"
+        android:icon="@drawable/ic_apple_black_silhouette_with_a_leaf"/>
+    <item android:id="@+id/sh" android:title="Share"
+        android:icon="@drawable/ic_share_black_24dp"/>
+    <item android:id="@+id/lg" android:title="Logout"
+        android:icon="@drawable/ic_logout"/>
+</menu>
